@@ -11,15 +11,15 @@ Visit the portfolio here:
 https://fionnjohnson.github.io/portfolio/
 
 For this project I used the following
--- HTML
--- CSS
--- Responsive grid layout
--- Git and Github for version control and deployment
+- HTML
+- CSS
+- Responsive grid layout
+- Git and Github for version control and deployment
 
 ## Future Improvements
--- Additional personal projects
--- Expanded project descriptions
--- Interactive data visualisations 
+- Additional personal projects
+- Expanded project descriptions
+- Interactive data visualisations 
 
 ## Author
 Fionn Johnson
