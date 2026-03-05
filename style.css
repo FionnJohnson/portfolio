@@ -335,7 +335,7 @@ html {
 @media (max-width: 600px) {
 
   .hero-layout {
-    padding-top: 10vh;
+    padding-top: 0vh;
   }
 
   .projects-layout {
