@@ -335,7 +335,11 @@ html {
 @media (max-width: 600px) {
 
   .hero-layout {
-    padding-top: 0vh;
+    padding-top: 8vh;
+  }
+
+  .about-card {
+    margin-bottom: var(--space-xl);
   }
 
   .projects-layout {
