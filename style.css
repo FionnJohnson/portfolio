@@ -321,7 +321,6 @@ html {
 
   .projects-layout {
     grid-template-columns: repeat(2, 1fr);
-    /* grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); */
     gap: var(--space-md);
   }
 
@@ -334,6 +333,10 @@ html {
 
 /* Mobile */
 @media (max-width: 600px) {
+
+  .hero-layout {
+    padding-top: 10vh;
+  }
 
   .projects-layout {
     grid-template-columns: 1fr;
